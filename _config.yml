@@ -1,8 +1,7 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Harsh Trivedi
-
+name: SPMW
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
+tagline: Howdy, I'm SPMW. I'm a passionate Tech Lover from Kenya, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://github.com/harsh98trivedi.png
@@ -14,31 +13,60 @@ Cover_Image: https://picsum.photos/1080?nocache=
 links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
+
+
+    # CUSTOM LINK
+
+  - Name: IT Services
+    URL: https://github.com/harsh98trivedi/links
+    Icon-Class: fas fa-link
+    Color: '#d94869'
+    Text_Color: '#ffffff'
+
+  - Name: Free Downloads
+    URL: https://github.com/harsh98trivedi/links
+    Icon-Class: fas fa-link
+    Color: '#d94869'
+    Text_Color: '#ffffff'
+
+  - Name: Blogs
+    URL: https://harsh98trivedi.github.io/blog
+    Icon-Class: fas fa-link
+    Color: '#ffb142'
+    Text_Color: '#ffffff'
+
+  # BUY ME A COFFEE
+  - Name: BuyMeACoffee
+    URL: 'https://buymeacoffee.com'
+    Username: harshtrivedi
+    Icon-Class: fas fa-mug-hot
+    Color: '#FFDD00'
+    Text_Color: '#000000'    
     
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
-    Username: harsh98trivedi
+    Username: djxpat254
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
 
     # INSTAGRAM
   - Name: Instagram
     URL: https://www.instagram.com
-    Username: harsh98trivedi
+    Username: djxpat254
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
     # TWITTER
   - Name: Twitter
     URL: https://twitter.com
-    Username: harsh98trivedi
+    Username: djxpat254
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
      # THREADS.NET
   - Name: Threads
-    URL: https://threads.net/
+    URL: 
     Username: harsh98trivedi
     Color: '#000000'
     Icon-Class: fa-brands fa-threads
@@ -46,7 +74,7 @@ links:
 
     # CLUBHOUSE
   - Name: Clubhouse
-    URL: https://www.clubhouse.com
+    URL: 
     Username: '@harsh98trivedi'
     Color: '#f1c40f'
     Icon-Class: fas fa-hand-paper -mt-0.5
@@ -73,7 +101,7 @@ links:
     Icon-Class: fab fa-github
 
     # WordPress
-  - Name: WordPress.org
+  - Name: WordPress.com
     URL: 'https://profiles.wordpress.org'
     Username: harsh98trivedi
     Icon-Class: fa-brands fa-wordpress-simple
@@ -89,7 +117,7 @@ links:
 
   #   # Drupal
   # - Name: Drupal
-  #   URL: 'https://www.drupal.org/u'
+  #   URL: ''
   #   Username: harshtrivedi
   #   Icon-Class: fa-brands fa-drupal
   #   Color: '#0077C0'
@@ -149,7 +177,7 @@ links:
 
     # SNAPCHAT
   - Name: Snapchat
-    URL: https://www.snapchat.com/add
+    URL: 
     Username: 'harsh98trivedi'
     Color: '#FFFC00'
     Text_Color: '#000000'
@@ -157,7 +185,7 @@ links:
 
     # STEAM
   - Name: Steam
-    URL: https://steamcommunity.com/id
+    URL: 
     Username: 'harshtrivedi'
     Color: '#66c0f4'
     Text_Color: '#000000'
@@ -165,7 +193,7 @@ links:
 
   #   # DISCORD
   # - Name: Discord
-  #   URL: 'https://discord.gg'
+  #   URL: ''
   #   Username: 
   #   Icon-Class: fab fa-discord
   #   Color: '#5865F2'
@@ -180,21 +208,21 @@ links:
 
     # BEHANCE
   - Name: Behance
-    URL: https://www.behance.net
+    URL: 
     Username: harsh98trivedi
     Color: '#1769ff'
     Icon-Class: fab fa-behance
 
   #   # DRIBBBLE
   # - Name: Dribbble
-  #   URL: https://dribbble.com
+  #   URL: 
   #   Username: 
   #   Color: '#ea4c89'
   #   Icon-Class: fab fa-dribbble
 
     # DEVIANTART
   - Name: DeviantArt
-    URL: https://www.deviantart.com
+    URL: 
     Username: harshtrivedi
     Icon-Class: fab fa-deviantart
     Color: '#05CC46'
@@ -202,7 +230,7 @@ links:
 
     # FIGMA
   - Name: Figma
-    URL: https://www.figma.com
+    URL: 
     Username: '@harshtrivedi'
     Icon-Class: fab fa-figma
     Color: '#ff2865'
@@ -210,7 +238,7 @@ links:
 
     # SPOTIFY
   - Name: Spotify
-    URL: http://open.spotify.com/user
+    URL: 
     Username: 314ihryk3edvtusti6il3oy3x5da
     Color: '#1DB954'
     Icon-Class: fab fa-spotify
@@ -253,31 +281,11 @@ links:
 
   #   # TUMBLR
   # - Name: Tumblr
-  #   URL: https://www.tumblr.com
+  #   URL: 
   #   Username: 
   #   Color: '#35465c'
   #   Icon-Class: fab fa-tumblr
 
-  # BUY ME A COFFEE
-  - Name: BuyMeACoffee
-    URL: 'https://buymeacoffee.com'
-    Username: harshtrivedi
-    Icon-Class: fas fa-mug-hot
-    Color: '#FFDD00'
-    Text_Color: '#000000'
-
-    # CUSTOM LINK
-  - Name: Blog
-    URL: https://harsh98trivedi.github.io/blog
-    Icon-Class: fas fa-link
-    Color: '#ffb142'
-    Text_Color: '#ffffff'
-
-  - Name: Links
-    URL: https://github.com/harsh98trivedi/links
-    Icon-Class: fas fa-link
-    Color: '#d94869'
-    Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'Yes'
@@ -303,7 +311,7 @@ exclude:
   - Icon
 
 # Base URL
-# baseurl: /links
+# baseurl: ''
 
 # Default Markdown Engine
 markdown: kramdown
